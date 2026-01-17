@@ -1,0 +1,1 @@
+# “Mohirdev Hamjamiyati” ga qoʻshilish uchun [havola](https://t.me/mohirdevyordamchi_bot?start=join_1740350510)
