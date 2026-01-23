@@ -1,0 +1,1 @@
+# Kerakli [dasturlar](https://colab.research.google.com/github/MohirdevTexnik/Python_noutbook/blob/main/01-kerakli-dasturlar.ipynb)
